@@ -60,15 +60,17 @@ Building solo taught me:       do all four before you lose motivation.
 
 An Intel N150 mini PC running Ubuntu that does an unreasonable amount of work.
 
+```
 Homelab
 ├── n8n ............. automation spine — schedulers, scrapers, digests
-├── Actual Budget ... personal finance, SimpleFIN bank sync
+├── Actual Budget ... personal finance
 ├── Immich .......... photos, self-hosted
 ├── Ollama .......... local models
 ├── Browserless ..... headless scraping
 └── FlareSolverr .... the stubborn pages
 
-Docker → Traefik → Cloudflare Zero Trust tunnel → *.radd.uk
+Docker → Traefik → Cloudflare Zero Trust tunnel → Server URL
+```
 
 Everything is documented in a runbook of known failure patterns, because I forget and future-me will not remember.
 **Automations that live here:** auction keyword trackers with Gmail digests, market-sentiment pipelines, Alpaca paper-trading strategies (RSI mean reversion, VIX spike entry), route planners, and a Messenger bot that turns flyers into calendar events.
