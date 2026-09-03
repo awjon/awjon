@@ -54,7 +54,7 @@ Building solo taught me:       do all four before you lose motivation.
 | **Portfolio City** | A walkable 3D résumé — physics-driven movement, proximity interactions, tile-streamed city, mobile touch controls. | Three.js / R3F · ecctrl · Cloudflare Pages |
 | **JW-Flight** | Scroll-scrubbed 3D fly-through of six career scenes, on the JW-GRID design system. | WebGL · Archivo / IBM Plex Mono |
 
-All in private repos, reach out if you want to learn more.
+- All in private repos, reach out if you want to learn more.
 ---
 
 ### 🔥 Homelab
