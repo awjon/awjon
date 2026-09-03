@@ -107,11 +107,11 @@ A Claude Code subagent framework — **Opus orchestrates, Sonnet executes, Haiku
 
 ### 📐 Operating principles
 
-- **A fast "no" is a good outcome.** Validate before you build; kill it early and cheerfully.
-- **Deterministic beats clever.** Only reach for an AI call when plain logic genuinely can't do it.
+- **A fast "no" is a good outcome.** Validate before you build; kill it early if it's not worthy.
+- **Deterministic beats clever.** Only reach for an LLM when plain logic genuinely can't do it.
 - **Native nodes over custom code.** The workflow you can read in six months is the one that survives.
-- **Near-zero infra at low volume.** If it can't run for pocket change, it isn't done yet.
-- **Ship it.** Perfect is a milestone that never gets a date.
+- **Near-zero infra at low volume.** If it can't run for pocket change, you better have large pockets.
+- **Ship it.** Perfect is a milestone that never gets a date.  Iterate fast and often.
 
 ---
 
